@@ -12,10 +12,9 @@ Nosso foco é no desenvolvimento de softwares, UX/UI Design, websites e aplicati
 _________________
 ### :diamond_shape_with_a_dot_inside: Contatos
 Você nos contatar através de qualquer uma das formas abaixo<br>
-:large_blue_diamond: **WhatsApp**
-&emsp;:bookmark: Herbert Wander - +55 27 992343583
-
-&emsp;:bookmark: Luis Fernando - +55 61 982362396
+:large_blue_diamond: **WhatsApp**  
+&emsp;:bookmark: Herbert Wander - +55 27 992343583  
+&emsp;:bookmark: Luis Fernando - +55 61 982362396  
 
 :large_blue_diamond: **E-MAIL**
 &emsp;:bookmark: Mythical - mythicalgg@gmail.com
