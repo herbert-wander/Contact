@@ -29,5 +29,5 @@ _________________
 ### :diamond_shape_with_a_dot_inside: Portfólio
 Abaixo você pode verificar nossos portfólios
 
-&emsp;:bookmark: Herbert Wander - https://github.com/herbert-wander/  
-&emsp;:bookmark: Luis Fernando - https://www.behance.net/luisfernan10a0
+&emsp;:bookmark: Herbert Wander [Desenvolvedor] - https://github.com/herbert-wander/  
+&emsp;:bookmark: Luis Fernando [UX/UI Dsesign]- https://www.behance.net/luisfernan10a0
