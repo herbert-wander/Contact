@@ -11,7 +11,7 @@ A Mythical é uma empresa que surgiu da união de amigos em busca de evolução 
 Nosso foco é no desenvolvimento de softwares, UX/UI Design, websites e aplicativos para dispositivios móveis.<br>
 _________________
 ### :diamond_shape_with_a_dot_inside: Contatos
-Você nos contatar através de qualquer uma das formas abaixo<br>
+Você nos contatar através das opções abaixo<br>
 :large_blue_diamond: **WhatsApp**  
 &emsp;:bookmark: Herbert Wander - +55 27 992343583  
 &emsp;:bookmark: Luis Fernando - +55 61 982362396  
