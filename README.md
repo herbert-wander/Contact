@@ -16,18 +16,18 @@ Você nos contatar através de qualquer uma das formas abaixo<br>
 &emsp;:bookmark: Herbert Wander - +55 27 992343583  
 &emsp;:bookmark: Luis Fernando - +55 61 982362396  
 
-:large_blue_diamond: **E-MAIL**
-&emsp;:bookmark: Mythical - mythicalgg@gmail.com
-&emsp;:bookmark: Herbert Wander - herbert-wander@hotmail.com
-&emsp;:bookmark: Luis Fernando - luisfernandogomesdias@gmail.com
+:large_blue_diamond: **E-MAIL**  
+&emsp;:bookmark: Mythical - mythicalgg@gmail.com  
+&emsp;:bookmark: Herbert Wander - herbert-wander@hotmail.com  
+&emsp;:bookmark: Luis Fernando - luisfernandogomesdias@gmail.com  
 
-:large_blue_diamond: **Linkedin**
-&emsp;:bookmark: Herbert Wander - https://www.linkedin.com/in/herbert-wander-dos-santos-martins-93243957/
-&emsp;:bookmark: Luis Fernando - https://www.linkedin.com/in/luis-fernando-gomes-1812a6145/
+:large_blue_diamond: **Linkedin**  
+&emsp;:bookmark: Herbert Wander - https://www.linkedin.com/in/herbert-wander-dos-santos-martins-93243957/  
+&emsp;:bookmark: Luis Fernando - https://www.linkedin.com/in/luis-fernando-gomes-1812a6145/  
 
 _________________
 ### :diamond_shape_with_a_dot_inside: Portfólio
 Abaixo você pode verificar nossos portfólios
 
-&emsp;:bookmark: Herbert Wander - https://github.com/herbert-wander/
+&emsp;:bookmark: Herbert Wander - https://github.com/herbert-wander/  
 &emsp;:bookmark: Luis Fernando - https://www.behance.net/luisfernan10a0
